@@ -1,3 +1,5 @@
-- 👋 Hi, I’m @MohamadNader (ICT student)
+- 👋 Hi, I’m @MohamadNader (Software student)
 - 👀 I’m interested in Mobile and Webdevelopment
-- 🌱 I’m currently learning C# and Xamarin.
+- 🌱 I’m currently learning Java and android development.
+- 🍃 I have some knowledge of working with C# and Xamarin.
+- 🌺 My next goal is to learn Servlets.. 
