@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MohamadNader (Software student)
+- 👋 Hi, I’m @MohamadNader (Software developer)
 - 👀 I’m interested in Mobile and Webdevelopment
-- 🌱 I’m currently learning Java and android development.
-- 🍃 I have some knowledge of working with C# and Xamarin.
-- 🌺 My next goal is to learn Servlets.. 
+- 🌱 I’m currently learning Flutter and android development.
+- 🍃 I have some knowledge of working with C# and Java.
+- 🌺 My life goal is to serve Islam, and my apps are designed to support that purpose.
